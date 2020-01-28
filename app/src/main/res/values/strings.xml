@@ -2,4 +2,6 @@
     <string name="app_name">Token_id</string>
     <string name="copy">Copy</string>
     <string name="share">Share</string>
+    <string name="map_api_key">AIzaSyCbc2Y5AIwZ8uUeHRUXiozGN3CnpjKT0oI</string>
+
 </resources>
